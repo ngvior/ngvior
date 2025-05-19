@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Nico 😄
 🔭 System Analyst, currenly working as Functional Analyst at [IT Rock](https://www.itrock.com.ar/) <br>
-👨🏻‍🎓 Studied System Analyst at the [ORT Technology Intitute](https://www.ort.edu.ar/informacion-terciario), Argentina. <br>
+👨🏻‍🎓 Studied System Analyst at [ORT Technology Intitute](https://www.ort.edu.ar/informacion-terciario), Argentina. <br>
 💭 Currently learning TypeScript✒️ and NestJS🐺. <br>
 🖥️ I'm interested in starting a carreer as a Software Developer. <br>
 📫 How to reach me: ngvior@gmail.com OR [linkedin.com/in/nicolasgarciavior](https://www.linkedin.com/in/nicolasgarciavior)
